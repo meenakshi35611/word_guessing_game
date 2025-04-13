@@ -21,7 +21,7 @@ A simple terminal-based word guessing game built using Python. The player must g
 2. Save the code to a file named `word_guess.py`.
 3. Run it in your terminal or command prompt
 
-##🚀 Future Ideas
+## 🚀 Future Ideas
 - Show previously guessed letters
 - Add hints or difficulty levels
 - Support full word guessing
