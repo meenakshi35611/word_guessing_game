@@ -22,6 +22,6 @@ A simple terminal-based word guessing game built using Python. The player must g
 3. Run it in your terminal or command prompt
 
 ##🚀 Future Ideas
--Show previously guessed letters
--Add hints or difficulty levels
--Support full word guessing
+- Show previously guessed letters
+- Add hints or difficulty levels
+- Support full word guessing
